@@ -7,30 +7,23 @@ We will provide you all the technical support you require to control your system
 1. Creating Personalized System Sctructure
 2. Optimizing the needs and requirements
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### About US
+we are a team working to make our client's system better to use with ease and optimizing the resourses as per the requirements.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### What we actually do?
+Creating a envoirnment for the comanies who ask to create a personalized system at our poratl and makrng it you use daily for a set number of people.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sahaib/Sahaib.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](sahaibsingh@aol.com) and we’ll help you sort it out.
+We'd like you hear from you at sahaibsingh@aol.com for any queries or enqueries.
+
+
+
+### Extra Servies
+We also Repair Systems and serive the hardware of your IT products.
