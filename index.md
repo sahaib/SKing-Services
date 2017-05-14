@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to our Website
 
-You can use the [editor on GitHub](https://github.com/sahaib/Sahaib.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We will provide you all the technical support you require to control your system and optimize the resources.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Our Services
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Creating Personalized System Sctructure
+2. Optimizing the needs and requirements
 
 ```markdown
 Syntax highlighted code block
