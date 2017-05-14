@@ -21,7 +21,11 @@ Creating a envoirnment for the comanies who ask to create a personalized system 
 
 ### Support or Contact
 
-We'd like you hear from you at sahaibsingh@aol.com for any queries or enqueries.
+We'd like you hear from you at <span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #BBBBBB;">
+
+sahaibsingh@aol.com
+
+ </span> for any queries or enqueries.
 
 
 
