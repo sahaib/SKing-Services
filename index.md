@@ -1,29 +1,30 @@
-## Welcome to our Website
+## SKinG Creations
 
-We will provide you all the technical support you require to control your system and optimize the resources.
+This is the Technical connect of SKinG Creations if you're reading this then you've tried to know someting about SKinG Cretions which no one else want to, usually.
 
-### Our Services
+### Our Motive
 
-1. Creating Personalized System Sctructure
-2. Optimizing the needs and requirements
+We Just want to make a single medium for all the people who are looking for designs and creatives.
 
+More Than that SKinG Creations is not just about giving serivce but giving you the right thing that you need.
 
+This Company Lives only on Pure and Firm Imagination.
 
 ### About US
-we are a team working to make our client's system better to use with ease and optimizing the resourses as per the requirements.
+Our Team at SKinG Creations is Just One Brain and that is mine itself.
+Just Kidding ;D
+
+We just Try to encourage and enhance the new, young and Pure soul's imagination and after that SKinG Creations has Business and Marketing part where we do the same as any other company doed but with our enhanced team.
 
 
-
-### What we actually do?
-Creating a envoirnment for the comanies who ask to create a personalized system at our poratl and makrng it you use daily for a set number of people.
 
 
 
 ### Support or Contact
 
-We'd like you hear from you <a href="mailto:sahaibsingh@aol.com"> for any queries or enqueries.
+We'd like you hear from you <a href="mailto:sahaib@mail.com"> for any queries or enqueries.
 
 
 
-### Extra Servies
-We also Repair Systems and serive the hardware of your IT products.
+
+
